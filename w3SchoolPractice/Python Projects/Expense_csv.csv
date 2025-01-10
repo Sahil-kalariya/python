@@ -1,0 +1,4 @@
+expense_name,amount,expense_type,mode_of_transaction,date
+breakfast,35,Food,online,2025-01-10 13:49:04.061593
+lunch ,60,Food,online,2025-01-10 13:49:40.525732
+bus ticket,1500,Utilities,online,2025-01-10 13:56:17.108595
